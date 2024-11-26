@@ -20,7 +20,7 @@
 
 ## Screenshots
 
-[_Add screenshots of the app here to showcase the UI and features._](https://github.com/RAHUL277227/AR-Car-Rent-App/blob/main/ar_flutter_app/iphone-multiple-screens-mockup.png)
+![Intro Screen]([https://github.com/RAHUL277227/Nike-Shoes-App/blob/main/iphone-x-mockup%20(1).png](https://github.com/RAHUL277227/AR-Car-Rent-App/blob/main/ar_flutter_app/iphone-multiple-screens-mockup.png))
 
 ---
 
